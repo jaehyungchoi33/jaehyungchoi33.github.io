@@ -1,5 +1,4 @@
 ---
-title: Abstracts
 permalink: /testPage/
 ---
 
