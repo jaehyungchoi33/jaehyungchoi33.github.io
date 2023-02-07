@@ -1,6 +1,6 @@
 ---
-title: Test Page
-permalink: /testPage/
+title: About
+permalink: /about/
 ---
 
-Testing!
+Under construction!
